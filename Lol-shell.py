@@ -12,7 +12,7 @@ print("""
 ███████╗╚█████╔╝███████╗  ██████╔╝██║░░██║███████╗███████╗███████╗
 ╚══════╝░╚════╝░╚══════╝  ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝
 
-Coded by @Nikhil                                          Instagram:- https://instagram.com/iamnikhil2459
+Coded by @Hacker2425                                          Instagram:- https://instagram.com/iamnikhil2459
 
                              [ This Tool can only Generate shell for Windows]
 """)
